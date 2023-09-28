@@ -31,8 +31,8 @@ List the key features of your project:
 
 ## Pics
 ![Action 1](images/LT1.jpg)
-![Action 2](images/LT2.jpg)
-![Action 4](images/LT4.jpg)
+![Action 2](images/LT4.jpg)
+![Action 3](images/LT2.jpg)
 
 
 ## Installation
