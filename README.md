@@ -39,3 +39,6 @@ List the key features of your project:
 ```bash
 $ git clone https://github.com/jouellnyc/infrared_tag 
 
+## Credits
+- This code relies on https://github.com/peterhinch/micropython_ir/tree/master
+- Minor customization was added to ir_rx/test.py
