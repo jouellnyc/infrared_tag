@@ -36,9 +36,11 @@ List the key features of your project:
 
 
 ## Installation
-```bash
-$ git clone https://github.com/jouellnyc/infrared_tag 
+git clone https://github.com/jouellnyc/infrared_tag 
+Upload via Thonny to / on your pico pi.
+Upload via Thonny to / on your pico pi.
+
 
 ## Credits
 - This code relies on https://github.com/peterhinch/micropython_ir/tree/master
-- Minor customization was added to ir_rx/test.py
+- Minor customization was added to ir_rx/test.py and lazer_tag.py
