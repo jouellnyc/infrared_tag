@@ -4,12 +4,10 @@ A Table Top Shoot 'em up.
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Credits](#credits)
+- [Components](#Components)
+- [Schmatic](#schematic)
 - [Images](#images)
+- [Credits](#credits)
 - [License](#license)
 
 ## Introduction
@@ -25,11 +23,11 @@ Put one of these on your desk and one on your co-worker's and using the remote, 
 - 470 Ohm (or similar) resistors
 
 
-## Fritzing Schematic 
+## Schematic 
 ![Fritzing](images/ir_tag_sketch.png)
 
 
-## Pics
+## Images 
 ![Action 1](images/LT1.jpg)
 ![Action 2](images/LT4.jpg)
 ![Action 3](images/LT2.jpg)
@@ -43,3 +41,6 @@ Put one of these on your desk and one on your co-worker's and using the remote, 
 ## Credits
 - This code relies on https://github.com/peterhinch/micropython_ir/tree/master
 - Minor customization was added to ir_rx/test.py and lazer_tag.py
+
+## License 
+MIT  
