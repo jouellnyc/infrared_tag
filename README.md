@@ -18,6 +18,7 @@ Put one of these on your desk and one on your co-worker's and using the remote, 
 
 ## Components
 - [IR Receiver](https://www.amazon.com/gp/product/B06XYNDRGF)
+- [Remote](https://www.amazon.com/gp/product/B0C7BPJYH1/)
 - Pi Pico
 - Leds - Red, Yellow, Green
 - 470 Ohm (or similar) resistors
