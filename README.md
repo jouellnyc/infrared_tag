@@ -36,9 +36,8 @@ List the key features of your project:
 
 
 ## Installation
-git clone https://github.com/jouellnyc/infrared_tag 
-Upload via Thonny to / on your pico pi.
-Upload via Thonny to / on your pico pi.
+- git clone https://github.com/jouellnyc/infrared_tag  
+- Upload via Thonny to / on your pico pi.
 
 
 ## Credits
