@@ -17,7 +17,7 @@ Remember Laser tag?
 Put one of these on your desk and one on your co-worker's and using the remote, it's shoot out until 3 shots hit...
 
 ## Components
-- IR Receiver
+- [IR Receiver](https://www.amazon.com/gp/product/B06XYNDRGF)
 - Pi Pico
 - Leds - Red, Yellow, Green
 - 470 Ohm (or similar) resistors
