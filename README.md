@@ -27,6 +27,22 @@ Put one of these on your desk and one on your co-worker's and using the remote, 
 ## Schematic 
 ![Fritzing](images/ir_tag_sketch.png)
 
+**OLED Connections**
+
+| GPIO Pin | Connection|
+| -------- | --------- |
+| GPIO 18  | SDA       |
+| GPIO 19  | SCL       |
+| GND      | GND       |
+| 5V/PIN40 | VCC       |  
+
+**IR Receiver Connections**
+
+| GPIO 15  | IN  (left leg) |
+| GND 5    | GND (middle leg) |
+| 5V/Pin 40| VCC (right leg|
+
+
 
 ## Images 
 ![Action 1](images/LT1.jpg)
