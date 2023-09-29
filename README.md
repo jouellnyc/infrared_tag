@@ -1,7 +1,3 @@
-# infrared_tag
-
-A Table Top Shoot 'em up.
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Components](#Components)
