@@ -31,8 +31,8 @@ Put one of these on your desk and one on your co-worker's and using the remote, 
 
 | GPIO Pin | Connection|
 | -------- | --------- |
-| GPIO 18  | SDA       |
-| GPIO 19  | SCL       |
+| GPIO 8   | SDA       |
+| GPIO 9   | SCL       |
 | GND      | GND       |
 | 5V/PIN40 | VCC       |  
 
@@ -43,6 +43,19 @@ Put one of these on your desk and one on your co-worker's and using the remote, 
 | GPIO 15  | IN  (left leg) |
 | GND 5    | GND (middle leg) |
 | 5V/Pin 40| VCC (right leg|
+
+**LEDs**
+
+| GPIO Pin | Connection|
+| -------- | --------- |
+| GPIO 18  | Green     |
+| GPIO 19  | Yellow    |
+| GPIO 20  | Red       |
+
+Each LED connects to it's own resistor.  
+
+Each resistor connects to the blue jumper which is connected to GND. 
+
 
 
 
