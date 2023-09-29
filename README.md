@@ -46,16 +46,15 @@ Put one of these on your desk and one on your co-worker's and using the remote, 
 
 **LEDs**
 
-| GPIO Pin | Connection|
+| GPIO Pin | Color     |
 | -------- | --------- |
 | GPIO 18  | Green     |
 | GPIO 19  | Yellow    |
 | GPIO 20  | Red       |
 
-Each LED connects to it's own resistor.  
+Each LED also connects to it's own resistor.  
 
 Each resistor connects to the blue jumper which is connected to GND. 
-
 
 
 
