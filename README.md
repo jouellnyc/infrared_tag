@@ -38,6 +38,8 @@ Put one of these on your desk and one on your co-worker's and using the remote, 
 
 **IR Receiver Connections**
 
+| GPIO Pin | Connection|
+| -------- | --------- |
 | GPIO 15  | IN  (left leg) |
 | GND 5    | GND (middle leg) |
 | 5V/Pin 40| VCC (right leg|
