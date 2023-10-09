@@ -8,7 +8,9 @@ yll  = machine.Pin(19, machine.Pin.OUT)
 red  = machine.Pin(20, machine.Pin.OUT)
 
 hits=0
-pri_scan_code=28
+
+#Most common on Amazon
+pri_scan_codes=[28,64]
 
 def display_hits():
     print(f"hits: {hits}")
@@ -29,7 +31,7 @@ def display_surrender():
                 
 def lazer_check(data):
     #The 'OK' Button
-     if data == pri_scan_code:
+     if data in pri_scan_codes:
             global hits
             hits+=1
             if hits == 1:
