@@ -13,4 +13,3 @@ def first_text():
     oled.show()
 
 first_text()
-
