@@ -12,6 +12,8 @@ Remember Laser tag?
 
 Put one of these on your desk and one on your co-worker's and using the remote, it's a shoot out until 3 shots hit...
 
+EDIT: You can customize the text as you wish. I've added Star Wars themes for the light and dark sides with Peizo buzzer to play theme if the other side 'wins'
+
 ## Components
 - [IR Receiver](https://www.amazon.com/gp/product/B06XYNDRGF)
 - [Remote](https://www.amazon.com/gp/product/B0C7BPJYH1/)
