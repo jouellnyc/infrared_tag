@@ -14,7 +14,9 @@ Put one of these on your desk and one on your co-worker's and using the remote, 
 
 
 ## Embellishing
-You can customize the text as you wish. I've added Star Wars themes for the light and dark sides with Peizo buzzer (fits perfecly on Pin 20 (not shown) of the Pico for power and hook the other leg to GND) to play theme if the other side 'wins'
+- You can customize the text as you wish. I've added Star Wars themes for the light and dark sides with Peizo buzzer(s).
+- They fit will on the side on the pico reaching into the GND bank on thebreadboard.
+- Each respective side's them will play if the other sides loses ("Emperial March" vs "Cantina")
 
 ## Components
 - [IR Receiver](https://www.amazon.com/gp/product/B06XYNDRGF)
