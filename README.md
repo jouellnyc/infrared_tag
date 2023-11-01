@@ -63,7 +63,7 @@ Each resistor connects to the blue jumper which is connected to GND.
 ![Action 2](images/LT4.jpg)
 ![Action 3](images/LT2.jpg)
 
-## Star Wars music,  4 Piezosm, and 2 Sets of Leds!
+## Star Wars music,  4 Piezos, and 2 Sets of synchronized leds!
 ![4 Piezos and 2 Sets of LEDs!](images/4piezos.jpg)
 
 
