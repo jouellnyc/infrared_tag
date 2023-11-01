@@ -16,13 +16,10 @@ elif side == 'light':
 def play_song(mysong, count=500):
     """ Send an instance of music as mysong"""
     while count > 0:
-        #print(mysong.tick())
         mysong.tick()
         sleep(0.04)
         count-=1
     mysong.stop()
 
-#if __name__ == "__main__":
-Buzz1 = Pin(16)
-mySong = music(song_string, pins=[Buzz1])
-play_song(mySong, count=370)        
+mySong = music(song_string, pins=[Pin(0),Pin(4),Pin(9),Pin(12)],duty=50000)
+play_song(mySong, count=725)      

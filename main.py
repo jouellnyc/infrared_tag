@@ -1,10 +1,9 @@
 import time
 
 import machine
-led = machine.Pin("LED", machine.Pin.OUT)
-led.on()
+machine.Pin("LED", machine.Pin.OUT).on()
 
-from all_off import all_off
+from ir_rx.leds import all_off
 all_off()
 
 from ir_rx.test import test
