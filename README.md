@@ -12,7 +12,9 @@ Remember Laser tag?
 
 Put one of these on your desk and one on your co-worker's and using the remote, it's a shoot out until 3 shots hit...
 
-EDIT: You can customize the text as you wish. I've added Star Wars themes for the light and dark sides with Peizo buzzer (fits perfecly on Pin 20 (not shown) of the Pico for power and hook the other leg to GND) to play theme if the other side 'wins'
+
+## Embellishing
+You can customize the text as you wish. I've added Star Wars themes for the light and dark sides with Peizo buzzer (fits perfecly on Pin 20 (not shown) of the Pico for power and hook the other leg to GND) to play theme if the other side 'wins'
 
 ## Components
 - [IR Receiver](https://www.amazon.com/gp/product/B06XYNDRGF)
@@ -70,6 +72,7 @@ Each resistor connects to the blue jumper which is connected to GND.
 
 ## Credits
 - This code relies extensively on https://github.com/peterhinch/micropython_ir/tree/master
+- PWM music from https://github.com/james1236/buzzer_music/ 
 
 ## License 
 MIT  
