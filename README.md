@@ -70,7 +70,6 @@ Each resistor connects to the blue jumper which is connected to GND.
 
 ## Credits
 - This code relies extensively on https://github.com/peterhinch/micropython_ir/tree/master
-- Minor customization was added to ir_rx/test.py and lazer_tag.py
 
 ## License 
 MIT  
