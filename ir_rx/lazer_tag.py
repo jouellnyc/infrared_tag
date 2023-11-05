@@ -1,7 +1,7 @@
 import time
 
 from .oled_setup import oled, first_text
-from .leds import grn, grn2, yll, yll2, red, all_off
+from .leds import grn, grn2, yll, yll2, red, red2, all_off
 from config import side, quotes
 
 """red2 is plugged into the same GPIO as red 1, so it will turn on when red is turn on
@@ -20,16 +20,6 @@ def led_state(leds, state):
             led.on()
         else:
             led.off()
-    
-def green(ledsstate):
-    if state == "on":
-        grn.on()
-        grn2.on()
-    else:
-        grn.off()
-        grn2.off()
-
-
 
 def display_hits(text):
     print(f"hits: {hits}")
@@ -61,19 +51,21 @@ def lazer_check(data):
                 display_hits(quotes[side][hits-1])
                 led_state([grn,grn2],'on')
                 led_state([yll,yll2],'off')
-                red.off()
+                led_state([red,red2],'off')
             if hits == 2:
                 display_hits(quotes[side][hits-1])
                 led_state([grn,grn2],'off')
                 led_state([yll,yll2],'on')
-                red.off()
+                led_state([red,red2],'off')
             if hits == 3:
                 display_hits(quotes[side][hits-1])
                 led_state([grn,grn2],'off')
                 led_state([yll,yll2],'off')
-                red.on()
-                time.sleep(5)
+                led_state([red,red2],'on')
+                time.sleep(3)
                 display_surrender()
+                time.sleep(5)
+                import ir_rx.show_images
                 import music.buzzer_runner
             if hits > 3:
                 hits=0

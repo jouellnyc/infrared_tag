@@ -9,7 +9,7 @@ from .buzzer_music import music
 from config import side
 
 if side == 'dark':
-    from .songs import cantina as song_string
+    from .songs import light_song as song_string
 elif side == 'light':
     from .songs import darth_march as song_string
 
