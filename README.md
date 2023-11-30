@@ -3,7 +3,7 @@
 - [Components](#Components)
 - [Schmatic](#schematic)
 - [Images](#images)
-- [Star Wars](#starwars)
+- [StarWars](#starwars)
 - [Credits](#credits)
 - [License](#license)
 
@@ -67,7 +67,7 @@ Each resistor connects to the blue jumper which is connected to GND.
 ![Action 2](images/LT4.jpg)
 ![Action 3](images/LT2.jpg)
 
-## Star Wars
+## StarWars
 ## 4 Piezos, and 2 Sets of synchronized leds as Star Wars Themes play!
 ![4 Piezos and 2 Sets of LEDs!](images/4piezos.jpg)
 
