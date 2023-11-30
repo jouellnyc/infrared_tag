@@ -3,7 +3,7 @@
 - [Components](#Components)
 - [Schmatic](#schematic)
 - [Images](#images)
-- [StarWars](#starwars)
+- [Star Wars](#starwars)
 - [Credits](#credits)
 - [License](#license)
 
