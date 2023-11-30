@@ -61,7 +61,7 @@ Each resistor connects to the blue jumper which is connected to GND.
 
 
 
-## Standard Images 
+## Images 
 ![Action 1](images/LT1.jpg)
 ![Action 2](images/LT4.jpg)
 ![Action 3](images/LT2.jpg)
