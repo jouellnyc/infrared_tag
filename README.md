@@ -16,7 +16,7 @@ Put one of these on your desk and one on your co-worker's and using the remote, 
 
 ## Embellishing
 - Customize the text as you wish. I've added Star Wars themes for the light and dark sides with Peizo buzzer(s).
-- They fit will on the side on the pico reaching into the GND bank on thebreadboard.
+- They fit on the side of the pico reaching into the GND bank on the breadboard.
 - Each respective side's them will play if the other sides loses ("Emperial March" vs "Cantina")
 - See pic below
 
